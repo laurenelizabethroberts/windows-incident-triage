@@ -1,5 +1,5 @@
 # Windows Incident Triage (Sysmon + Chainsaw)
-[![License](https://img.shields.io/github/license/laurenelizabethroberts/windows-incident-triage)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Overview
 This repository demonstrates how to collect, export, and analyze Windows host telemetry using Sysmon and Chainsaw.
