@@ -1,0 +1,12 @@
+# Logs/binaries
+*.evtx
+*.zip
+*.7z
+*.exe
+*.msi
+chainsaw*
+/data/
+/report/screenshots/
+.vscode/
+.venv/
+__pycache__/
